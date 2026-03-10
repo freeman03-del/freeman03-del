@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**freeman03-del/freeman03-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gideon Kemboi.
 
-Here are some ideas to get you started:
+I am interested in digital media, creative technology, and multimedia tools. I enjoy exploring how audio, video, and screen recording tools can be used to create and improve digital content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+* Audio editing
+* Video production
+* Digital media tools
+* Screen recording
+* Multimedia workflows
+
+## Tools I Explore
+
+* Audacity
+* Shotcut
+* OpenShot
+* OBS Studio
+* FFmpeg
+* HandBrake
+* GIMP
+* Canva
+
+## Portfolio
+
+You can explore my multimedia portfolio here:
+
+https://github.com/freeman03-del/gideon-kemboi-portfolio
