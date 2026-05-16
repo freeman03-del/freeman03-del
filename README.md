@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Gideon Kemboi.
+My name is Beckham rono.
 
 I am interested in digital media, creative technology, and multimedia tools. I enjoy exploring how audio editing, video production, and screen recording tools can be used to create and improve digital content.
 
